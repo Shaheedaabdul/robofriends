@@ -1,0 +1,20 @@
+body {
+  margin: 0;
+padding: 0;
+font-family: sans-serif;
+background-color: #A9C9FF;
+background-image: linear-gradient(90deg, #A9C9FF 0%, #FFBBEC 100%);
+
+}
+
+@font-face {
+  font-family: 'Dayger Regular';
+  font-style: normal;
+  font-weight: normal;
+  src: local('Dayger Regular'), url('Dayger.woff') format('woff');
+  }
+
+  .logo {
+    color:rgb(115, 0, 255);
+    font-family: 'Dayger Regular';
+  }
